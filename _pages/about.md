@@ -43,9 +43,14 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2023.12* "Huawei Cup" graduate Student Mathematical Modeling Competition, national third prize.
+- *2024.05* Blue Bridge Cup Python programming graduate group, first prize in Gansu region.
+- *2024.10* The national third prize in the Case Competition of Applied Statistics Degree graduate students.
+- *2021.06* "Teddy Cup" Data Mining Challenge, national third prize.
+- *2021.12* "Teddy Cup" data analysis skills competition, national second prize.
+- *2022.12* National Mathematics Competition for College Students, Provincial first prize (twice).
+- *2023.12* Lanzhou University second-class Scholarship, university level.
+  
 # 📖 Educations
 - *2023.09 - now*,     Lanzhou University, School of Mathematics and Statistics, major in Applied Statistics.Lanzhou.
 - *2019.09 - 2023.06*, North University of China, School of Mathematics, Major in Statistics.Taiyuan. 
