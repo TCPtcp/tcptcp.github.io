@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -47,8 +47,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*,     Lanzhou University, School of Mathematics and Statistics, major in Applied Statistics.Lanzhou.
+- *2019.09 - 2023.06*, North University of China, School of Mathematics, Major in Statistics.Taiyuan. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
