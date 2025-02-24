@@ -21,6 +21,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+# 📖 Educations
+- *2023.09 - now*,     Lanzhou University, School of Mathematics and Statistics, major in Applied Statistics.Lanzhou.
+- *2019.09 - 2023.06*, North University of China, School of Mathematics, Major in Statistics.Taiyuan.
+
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,13 +56,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.12* Second-Class Scholarship of Lanzhou University, university level.
 - *2023.06* First-Class Scholarship of North University of China (3 times)
   
-# 📖 Educations
-- *2023.09 - now*,     Lanzhou University, School of Mathematics and Statistics, major in Applied Statistics.Lanzhou.
-- *2019.09 - 2023.06*, North University of China, School of Mathematics, Major in Statistics.Taiyuan. 
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+# 💻 Learn More
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
