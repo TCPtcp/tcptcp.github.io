@@ -46,6 +46,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+This project primarily focuses on the early screening and intervention of Post-Traumatic Stress Disorder (PTSD) among rescue personnel. Initially, 
+data preprocessing and feature engineering were conducted on questionnaire data to identify variables associated with the likelihood of developing PTSD,
+transforming the problem into a binary classification task. To address the issues of data label imbalance and high dimensionality, SMOTE was applied to the training set for oversampling, 
+and a Lasso-Logistic model was constructed for variable selection and classification prediction. Subsequently, 
+integrating questionnaire data with EEG data, a mid-level fusion model (MLP+GRU+DNN+Logistic) was employed to model the risk of occurrence.
+
+
 # 🎖 Honors and Awards
 - *2023.12* "Huawei Cup" graduate Student Mathematical Modeling Competition, national third prize.
 - *2024.05* Blue Bridge Cup Python programming graduate group, first prize in Gansu region.
