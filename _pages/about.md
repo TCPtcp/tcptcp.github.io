@@ -49,7 +49,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.06* "Teddy Cup" Data Mining Challenge, national third prize.
 - *2021.12* "Teddy Cup" data analysis skills competition, national second prize.
 - *2022.12* National Mathematics Competition for College Students, Provincial first prize (twice).
-- *2023.12* Lanzhou University second-class Scholarship, university level.
+- *2023.12* Second-Class Scholarship of Lanzhou University, university level.
+- *2023.06* First-Class Scholarship of North University of China (3 times)
   
 # 📖 Educations
 - *2023.09 - now*,     Lanzhou University, School of Mathematics and Statistics, major in Applied Statistics.Lanzhou.
