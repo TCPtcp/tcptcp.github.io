@@ -63,7 +63,7 @@ classify and predict driving behavior. Finally, a driving behavior visualization
 - The project was a research topic approved for the 2023 Shanxi Provincial Social and Economic Statistics Research Program. As the leader of the student team,
   I fully participated in the project's topic selection, proposal writing, and finalization under the guidance of a faculty advisor.
 
-• Based on data related to the digital economy in Shanxi Province, the project constructed an evaluation system for the development level of the digital economy 
+- Based on data related to the digital economy in Shanxi Province, the project constructed an evaluation system for the development level of the digital economy 
 using the entropy weight method. It analyzed the current status of the digital economy in Shanxi and used Ridge regression and Random Forest models to analyze the 
 influencing factors. Additionally, a visualization app was created using R Shiny.
 
