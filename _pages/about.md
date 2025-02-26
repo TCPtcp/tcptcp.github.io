@@ -32,10 +32,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
 - This project primarily focuses on the early screening and intervention of Post-Traumatic Stress Disorder (PTSD) among rescue personnel. Initially, 
 data preprocessing and feature engineering were conducted on questionnaire data to identify variables associated with the likelihood of developing PTSD,
 transforming the problem into a binary classification task. To address the issues of data label imbalance and high dimensionality, SMOTE was applied to the training set for oversampling, 
