@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Projects
 
-🎉🎉 *2024.04-2024.06*: &nbsp;  **Project Name: PTSD Risk Assessment for Rescue Workers Based on Multimodal Fusion.**
+🎉🎉 *2024.04-2024.06*: &nbsp;  *Project Name:*  **PTSD Risk Assessment for Rescue Workers Based on Multimodal Fusion.**
 
 - This project primarily focuses on the early screening and intervention of Post-Traumatic Stress Disorder (PTSD) among rescue personnel. Initially, 
 data preprocessing and feature engineering were conducted on questionnaire data to identify variables associated with the likelihood of developing PTSD,
@@ -44,13 +44,13 @@ fusion model (MLP+GRU+DNN+Logistic) was employed to model the risk of occurrence
 [**pdf**](https://github.com/TCPtcp/Multimodal-Fusion-PTSD/blob/main/pdf.pdf)
 [**code**](https://github.com/TCPtcp/Multimodal-Fusion-PTSD/tree/main)
 
-🎉🎉 *2024.05-2024.10*: &nbsp;  **Project Name: Kaggle RSNA 2024 Lumbar Degenerative Classification.**
+🎉🎉 *2024.05-2024.10*: &nbsp;  *Project Name:*  **Kaggle RSNA 2024 Lumbar Degenerative Classification.**
 - For the provided lumbar MRI data, the required data was extracted through data transformation and data splitting. Additionally, data augmentation was performed
 on the training data using methods such as Gaussian blur, brightness and contrast adjustment, and translation, rotation, and scaling. The MRI images were classified
 and trained based on a pre-trained EfficientNet model, and the final model achieved a score of 0.80 on a non-public dataset.
 
 
-🎉🎉 *2022.10-2023.06*: &nbsp;  **Project Name: Research on Comprehensive Evaluation Model of Intelligent Transportation Based on Vehicular Network Big Data.**
+🎉🎉 *2022.10-2023.06*: &nbsp;  *Project Name:*  **Research on Comprehensive Evaluation Model of Intelligent Transportation Based on Vehicular Network Big Data.**
 
 - The project is based on the in-vehicle data of freight vehicles to analyze the driving behavior of drivers. First, the obtained vehicular network data
 is preprocessed and feature extraction is performed to obtain driving behavior indicators.
@@ -59,7 +59,7 @@ is preprocessed and feature extraction is performed to obtain driving behavior i
 three classes and obtaining data labels. Based on these clustered data labels, ensemble learning is applied, combining Random Forest, XGBoost, and CatBoost to
 classify and predict driving behavior. Finally, a driving behavior visualization dashboard is built using ECharts.
 
-🎉🎉 *2021.10-2022.06*: &nbsp;  **Project Name: Application of Machine Learning Methods in the Statistical Analysis of Digital Economy in Shanxi.**
+🎉🎉 *2021.10-2022.06*: &nbsp;  *Project Name:*  **Application of Machine Learning Methods in the Statistical Analysis of Digital Economy in Shanxi.**
 - The project was a research topic approved for the 2023 Shanxi Provincial Social and Economic Statistics Research Program. As the leader of the student team,
   I fully participated in the project's topic selection, proposal writing, and finalization under the guidance of a faculty advisor.
 
