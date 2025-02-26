@@ -51,7 +51,8 @@ data preprocessing and feature engineering were conducted on questionnaire data 
 transforming the problem into a binary classification task. To address the issues of data label imbalance and high dimensionality, SMOTE was applied to the training set for oversampling, 
 and a Lasso-Logistic model was constructed for variable selection and classification prediction. Subsequently, 
 integrating questionnaire data with EEG data, a mid-level fusion model (MLP+GRU+DNN+Logistic) was employed to model the risk of occurrence.
-%插入pdf和代码%
+[**pdf**](https://github.com/TCPtcp/Multimodal-Fusion-PTSD/blob/main/pdf.pdf)
+[**code**](https://github.com/TCPtcp/Multimodal-Fusion-PTSD/tree/main)
 
 # 🎖 Honors and Awards
 - *2023.12* "Huawei Cup" graduate Student Mathematical Modeling Competition, national third prize.
