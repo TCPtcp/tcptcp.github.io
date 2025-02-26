@@ -40,8 +40,11 @@ integrating questionnaire data with EEG data, a mid-level fusion model (MLP+GRU+
 [**pdf**](https://github.com/TCPtcp/Multimodal-Fusion-PTSD/blob/main/pdf.pdf)
 [**code**](https://github.com/TCPtcp/Multimodal-Fusion-PTSD/tree/main)
 
+- For the provided lumbar MRI data, the required data was extracted through data transformation and data splitting. Additionally, data augmentation was performed
+on the training data using methods such as Gaussian blur, brightness and contrast adjustment, and translation, rotation, and scaling. The MRI images were classified
+and trained based on a pre-trained EfficientNet model, and the final model achieved a score of 0.80 on a non-public dataset.
 
-
+--Kaggle  RSNA 2024 Lumbar Spine Degenerative Classification
 
 # 🎖 Honors and Awards
 - *2023.12* "Huawei Cup" graduate Student Mathematical Modeling Competition, national third prize.
