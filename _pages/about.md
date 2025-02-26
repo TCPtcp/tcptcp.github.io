@@ -75,7 +75,7 @@ influencing factors. Additionally, a visualization app was created using R Shiny
 - *2021.12* &nbsp; "Teddy Cup" data analysis skills competition, national second prize.
 - *2022.12* &nbsp; National Mathematics Competition for College Students, Provincial first prize (twice).
 - *2023.12* &nbsp; Second-Class Scholarship of Lanzhou University, university level.
-- *2023.06* &nbsp; First-Class Scholarship of North University of China (3 times)
+- *2023.06* &nbsp; First-Class Scholarship of North University of China (3 times).
   
 
 # 💬 Invited Talks
