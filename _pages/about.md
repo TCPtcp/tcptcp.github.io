@@ -32,7 +32,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Projects
 
-- 2024.04-2024.06    Project Name: PTSD Risk Assessment for Rescue Workers Based on Multimodal Fusion
+- 2024.04-2024.06    Project Name: PTSD Risk Assessment for Rescue Workers Based on Multimodal Fusion.
+
 -- This project primarily focuses on the early screening and intervention of Post-Traumatic Stress Disorder (PTSD) among rescue personnel. Initially, 
 data preprocessing and feature engineering were conducted on questionnaire data to identify variables associated with the likelihood of developing PTSD,
 transforming the problem into a binary classification task. To address the issues of data label imbalance and high dimensionality, SMOTE was applied to the training set for oversampling, 
