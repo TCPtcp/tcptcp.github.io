@@ -68,14 +68,14 @@ using the entropy weight method. It analyzed the current status of the digital e
 influencing factors. Additionally, a visualization app was created using R Shiny.
 
 # 🎖 Honors and Awards
-- *2023.12* "Huawei Cup" graduate Student Mathematical Modeling Competition, national third prize.
-- *2024.05* Blue Bridge Cup Python programming graduate group, first prize in Gansu region.
-- *2024.10* The national third prize in the Case Competition of Applied Statistics Degree graduate students.
-- *2021.06* "Teddy Cup" Data Mining Challenge, national third prize.
-- *2021.12* "Teddy Cup" data analysis skills competition, national second prize.
-- *2022.12* National Mathematics Competition for College Students, Provincial first prize (twice).
-- *2023.12* Second-Class Scholarship of Lanzhou University, university level.
-- *2023.06* First-Class Scholarship of North University of China (3 times)
+- *2023.12* &nbsp; "Huawei Cup" graduate Student Mathematical Modeling Competition, national third prize.
+- *2024.05* &nbsp; Blue Bridge Cup Python programming graduate group, first prize in Gansu region.
+- *2024.10* &nbsp; The national third prize in the Case Competition of Applied Statistics Degree graduate students.
+- *2021.06* &nbsp; "Teddy Cup" Data Mining Challenge, national third prize.
+- *2021.12* &nbsp; "Teddy Cup" data analysis skills competition, national second prize.
+- *2022.12* &nbsp; National Mathematics Competition for College Students, Provincial first prize (twice).
+- *2023.12* &nbsp; Second-Class Scholarship of Lanzhou University, university level.
+- *2023.06* &nbsp; First-Class Scholarship of North University of China (3 times)
   
 
 # 💬 Invited Talks
