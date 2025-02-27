@@ -69,8 +69,8 @@ influencing factors. Additionally, a visualization app was created using **R Shi
 
 # 🎖 Honors and Awards
 - *2023.12* &nbsp; "Huawei Cup" graduate Student Mathematical Modeling Competition, national third prize.
+- *2024.08* &nbsp; The national third prize in the Case Competition of Applied Statistics Degree graduate students.
 - *2024.05* &nbsp; Blue Bridge Cup Python programming graduate group, first prize in Gansu region.
-- *2024.10* &nbsp; The national third prize in the Case Competition of Applied Statistics Degree graduate students.
 - *2021.06* &nbsp; "Teddy Cup" Data Mining Challenge, national third prize.
 - *2021.12* &nbsp; "Teddy Cup" data analysis skills competition, national second prize.
 - *2022.12* &nbsp; National Mathematics Competition for College Students, Provincial first prize (twice).
