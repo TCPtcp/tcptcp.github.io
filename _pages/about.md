@@ -25,10 +25,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.09 - now*,     Lanzhou University, School of Mathematics and Statistics, major in Applied Statistics.Lanzhou.
 - *2019.09 - 2023.06*, North University of China, School of Mathematics, Major in Statistics.Taiyuan.
 
-
+<!--
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
 # 📝 Projects
 
