@@ -17,8 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master's student who enrolled at the School of Mathematics and Statistics, Lanzhou University in 2023, under the supervision of Professor Xu Shoujun. 
-My research interests mainly focus on multimodal fusion and deep learning. I am passionate about combining theory with practice and exploring the applications of these technologies in real-world scenarios, such as medical image analysis and intelligent transportation. My master's thesis topic is "Application Research on Early Auxiliary Diagnosis of Breast Cancer Based on Multimodal Fusion".
+I am a master's student who enrolled at the School of Mathematics and Statistics, Lanzhou University in 2023, under the supervision of Professor Shoujun Xu. 
+
+My research interests mainly focus on multimodal fusion and deep learning. I am passionate about combining theory with practice and exploring the applications 
+of these technologies in real-world scenarios, such as medical image analysis and intelligent transportation. My master's thesis topic is "Application Research 
+on Early Auxiliary Diagnosis of Breast Cancer Based on Multimodal Fusion".
+
 Currently, I am seeking an internship opportunity, hoping to further enhance my capabilities through practical projects.
 
 
